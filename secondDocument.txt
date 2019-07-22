@@ -1,0 +1,19 @@
+    1  pwd; pwd shows your current location.
+
+    2  cd; cd means change directory, for instance "cd Desktop", takes you back to your desktop from wherever location you are.
+
+    3  git clone; clones your repository to your desktop.
+
+    4  ls; ls lists all the documents in a folder.
+
+    5  git status; checks the status of your file/document in git.
+
+    6  git add .; git add allows you include update to a particular file.
+
+    7  git commit -m; git commit is used to save changes to the local repositiry.
+
+    8  git config --; git config links our account details between github and gitbash.
+
+    9  git push; pushes the document to github.
+
+   10  history; shows all the git commands used previously.
